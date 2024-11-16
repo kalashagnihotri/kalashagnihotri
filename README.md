@@ -1,6 +1,6 @@
 [![MasterHead](https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg)](https://github.com/kalashagnihotri)
 <h1 align="center">Hi 👋, I'm Kalash Agnihotri</h1> 
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashagnihotri&label=Profile%20views&color=0e75b6&style=flat" alt="kalashagnihotri" /> </p>
 
