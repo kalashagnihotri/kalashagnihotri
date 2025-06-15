@@ -1,18 +1,99 @@
-[![MasterHead](https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg)](https://github.com/kalashagnihotri)
-<h1 align="center">Hi 👋, I'm Kalash Agnihotri</h1> 
-<h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashagnihotri&label=Profile%20views&color=0e75b6&style=flat" alt="kalashagnihotri" /> </p>
-
-
-<p align="left">
+<!-- Banner/Header Image -->
+<p align="center">
+  <a href="https://github.com/kalashagnihotri">
+    <img src="https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg" alt="header" width="100%" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Kalash Agnihotri</h1>
+<h3 align="center">A passionate developer and tech enthusiast from India 🚀</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalashagnihotri&show_icons=true&locale=en&layout=compact" alt="kalashagnihotri" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalashagnihotri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kalashagnihotri?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Code%20with-Passion-ff69b4" alt="Passion" />
+  <img src="https://img.shields.io/badge/Open%20Source-Friendly-brightgreen" alt="Open Source" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalashagnihotri&show_icons=true&locale=en" alt="kalashagnihotri" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalashagnihotri&" alt="kalashagnihotri" /></p>
+<p align="center">
+  <b>🌱 Currently learning:</b> <code>Node.js</code>, <code>Express</code>, <code>MongoDB</code>, <code>React</code><br>
+  <b>💡 Ask me about:</b> Flutter, Python, Automation, Web Development<br>
+  <b>💬 Fun fact:</b> I love building things from scratch and automating daily tasks!<br>
+</p>
+
+---
+
+## 🧑‍💻 &nbsp;About Me
+
+- 🔭 I’m currently working on **full-stack web projects and automation tools**
+- 🌱 I’m always exploring **new technologies** and frameworks
+- 🥅 2025 Goals: **Contribute more to open source & build impactful projects**
+- 💬 Ask me anything about **Python, Flutter, Node.js, and Open Source**
+- 📫 How to reach me: [kalashagnihotri@gmail.com](mailto:kalashagnihotri@gmail.com) • [LinkedIn](https://linkedin.com/in/kalashagnihotri)
+- ⚡ Fun fact: I love automating boring stuff and creating beautiful UIs
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,flutter,dart,html,css,js,nodejs,express,mongodb,mysql,git,github,arduino,android,selenium,postman" />
+</p>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalashagnihotri&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashagnihotri&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalashagnihotri&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+## 🏆 &nbsp;Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kalashagnihotri&theme=tokyonight&column=6&no-frame=true" alt="Trophies"/>
+</p>
+
+---
+
+## 📢 &nbsp;Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:kalashagnihotri@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
+  <a href="https://twitter.com/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+---
+
+## ✍️ &nbsp;Recent Projects
+
+- [Node.js File Management Tool](https://github.com/kalashagnihotri/week2_file_management)
+- [Flutter Expense Tracker App](https://github.com/kalashagnihotri/flutter_expense_tracker)
+- [Python Automation Scripts](https://github.com/kalashagnihotri/python-automation)
+- [Portfolio Website](https://github.com/kalashagnihotri/portfolio)
+
+---
+
+## 📝 &nbsp;Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Full-Stack Blog Platform with Node.js & MongoDB](https://dev.to/kalashagnihotri/how-to-build-a-full-stack-blog-platform-with-nodejs--mongodb-1234)
+- [Getting Started with Flutter for Beginners](https://dev.to/kalashagnihotri/getting-started-with-flutter-for-beginners-5678)
+- [Automating Daily Tasks with Python](https://dev.to/kalashagnihotri/automating-daily-tasks-with-python-9101)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
