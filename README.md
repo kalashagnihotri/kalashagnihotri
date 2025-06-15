@@ -1,132 +1,99 @@
-[![MasterHead](https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg)](https://github.com/kalashagnihotri)
-
-<h1 align="center">Hi there, I'm Kalash Agnihotri 👋</h1>
-<h3 align="center">A passionate developer from India</h3>
-
+<!-- Banner/Header Image -->
 <p align="center">
   <a href="https://github.com/kalashagnihotri">
-    <img src="https://komarev.com/ghpvc/?username=kalashagnihotri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail&style=flat" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/Twitter-@your_twitter-1DA1F2?logo=twitter&style=flat" alt="Twitter" />
+    <img src="https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg" alt="header" width="100%" />
   </a>
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Kalash Agnihotri</h1>
+<h3 align="center">A passionate developer and tech enthusiast from India 🚀</h3>
 
-## 🚀 About Me
-- 🔭 I’m currently working on **[Your Key Project Name](https://github.com/kalashagnihotri/your-repo)**
-- 🌱 I’m currently learning/experimenting with **ROS 2**, **PX4**, **Flutter** advanced patterns, etc.
-- 👯 I’m looking to collaborate on open-source projects in **robotics**, **IoT**, and **mobile apps**.
-- 🤔 I’m seeking help with **building scalable backend APIs** or **advanced Gazebo simulations**.
-- 💬 Ask me about **Python**, **Django**, **embedded systems**, **block coding with Raspberry Pi**, **Flutter**, **GitHub Actions**.
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I can solve Rubik’s cube in under X minutes / I love crocheting & share my journey [here](https://instagram.com/yourhandle) / etc.
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="left">
-  <!-- Add or remove as per your expertise -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <!-- Add more as needed -->
-</p>
-
----
-
-## 📂 Featured Projects
-<!-- Use GitHub’s “pinned” repos for actual pin. Here just list with description -->
-- **[PX4 Offboard Control Example](https://github.com/kalashagnihotri/px4-offboard-example)**
-  - Offboard velocity control using ROS 2 Humble and Gazebo Classic for drone simulations. Configured `make px4_sitl gazebo-classic_iris` and custom node for trajectory.
-- **[Telegram File Converter Bot](https://github.com/kalashagnihotri/telegram-file-converter)**
-  - A bot that converts file extensions (PNG→PDF, TS→MP4, merges PDFs, etc.) with efficient directory structure and modular scripts.
-- **[Raspberry Pi Block Coding Integration](https://github.com/kalashagnihotri/pi-block-coding)**
-  - Backend and firmware to allow block-coding platform to control LEDs, buzzers, sensors via Raspberry Pi for edu-learning platform.
-- **[Traffic Light AI System](https://github.com/kalashagnihotri/ai-traffic-light)**
-  - AI-based traffic signal optimization using camera feeds and ML models to minimize congestion.
-- **[Linux Text Extractor Tool](https://github.com/kalashagnihotri/text-extractor-linux)**
-  - A PowerToys-like OCR/text-extraction utility for Linux Mint with high accuracy.
-- *(Add more projects with short, impactful descriptions and links)*
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalashagnihotri&show_icons=true&theme=radical" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalashagnihotri&theme=radical" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=kalashagnihotri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kalashagnihotri?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Code%20with-Passion-ff69b4" alt="Passion" />
+  <img src="https://img.shields.io/badge/Open%20Source-Friendly-brightgreen" alt="Open Source" />
+</p>
+
+---
+
+<p align="center">
+  <b>🌱 Currently learning:</b> <code>Node.js</code>, <code>Express</code>, <code>MongoDB</code>, <code>React</code><br>
+  <b>💡 Ask me about:</b> Flutter, Python, Automation, Web Development<br>
+  <b>💬 Fun fact:</b> I love building things from scratch and automating daily tasks!<br>
+</p>
+
+---
+
+## 🧑‍💻 &nbsp;About Me
+
+- 🔭 I’m currently working on **full-stack web projects and automation tools**
+- 🌱 I’m always exploring **new technologies** and frameworks
+- 🥅 2025 Goals: **Contribute more to open source & build impactful projects**
+- 💬 Ask me anything about **Python, Flutter, Node.js, and Open Source**
+- 📫 How to reach me: [kalashagnihotri@gmail.com](mailto:kalashagnihotri@gmail.com) • [LinkedIn](https://linkedin.com/in/kalashagnihotri)
+- ⚡ Fun fact: I love automating boring stuff and creating beautiful UIs
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,flutter,dart,html,css,js,nodejs,express,mongodb,mysql,git,github,arduino,android,selenium,postman" />
+</p>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalashagnihotri&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashagnihotri&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalashagnihotri&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalashagnihotri&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
+
+---
+
+## 🏆 &nbsp;Achievements & Badges
+
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kalashagnihotri&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kalashagnihotri&theme=tokyonight&column=6&no-frame=true" alt="Trophies"/>
 </p>
 
 ---
 
-## 📝 Latest Blog Posts / Articles
-<!-- If you write technical blogs, replace URLs -->
-- [Title of Your Latest Article](https://medium.com/@yourusername/latest-article) – A brief 1–2 sentence summary.
-- [Another Post](https://dev.to/yourusername/another-post) – Summary here.
-- *(Remove this section if you don’t maintain a blog.)*
+## 📢 &nbsp;Let's Connect!
 
----
-
-## 🎯 Goals & What’s Next
-- Dive deeper into **ROS 2 / Gazebo** multi-UAV coordination.
-- Build production-grade **Django REST APIs** with testing and CI/CD.
-- Experiment with **edge AI** on Raspberry Pi.
-- Contribute to open-source robotics or IoT projects.
-- Enhance Flutter skills: performant animations, state management (BLoC/Provider/Riverpod).
-- *(Customize according to your roadmap.)*
-
----
-
-## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-In-blue?logo=linkedin&style=flat" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/Twitter-@your_twitter-1DA1F2?logo=twitter&style=flat" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail&style=flat" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yourhandle">
-    <img src="https://img.shields.io/badge/Instagram-@yourhandle-E4405F?logo=instagram&style=flat" alt="Instagram" />
-  </a>
+  <a href="https://linkedin.com/in/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:kalashagnihotri@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
+  <a href="https://twitter.com/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## ✍️ &nbsp;Recent Projects
+
+- [Node.js File Management Tool](https://github.com/kalashagnihotri/week2_file_management)
+- [Flutter Expense Tracker App](https://github.com/kalashagnihotri/flutter_expense_tracker)
+- [Python Automation Scripts](https://github.com/kalashagnihotri/python-automation)
+- [Portfolio Website](https://github.com/kalashagnihotri/portfolio)
 
 ---
+
+## 📝 &nbsp;Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Full-Stack Blog Platform with Node.js & MongoDB](https://dev.to/kalashagnihotri/how-to-build-a-full-stack-blog-platform-with-nodejs--mongodb-1234)
+- [Getting Started with Flutter for Beginners](https://dev.to/kalashagnihotri/getting-started-with-flutter-for-beginners-5678)
+- [Automating Daily Tasks with Python](https://dev.to/kalashagnihotri/automating-daily-tasks-with-python-9101)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
