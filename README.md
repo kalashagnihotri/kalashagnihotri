@@ -68,31 +68,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:kalashagnihotri@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
-  <a href="https://twitter.com/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/kalashagnihotri" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:krishagni66@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
+  <a href="https://instagram.com/__some.usual.shit__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-## ✍️ &nbsp;Recent Projects
-
-- [Node.js File Management Tool](https://github.com/kalashagnihotri/week2_file_management)
-- [Flutter Expense Tracker App](https://github.com/kalashagnihotri/flutter_expense_tracker)
-- [Python Automation Scripts](https://github.com/kalashagnihotri/python-automation)
-- [Portfolio Website](https://github.com/kalashagnihotri/portfolio)
-
----
-
-## 📝 &nbsp;Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Full-Stack Blog Platform with Node.js & MongoDB](https://dev.to/kalashagnihotri/how-to-build-a-full-stack-blog-platform-with-nodejs--mongodb-1234)
-- [Getting Started with Flutter for Beginners](https://dev.to/kalashagnihotri/getting-started-with-flutter-for-beginners-5678)
-- [Automating Daily Tasks with Python](https://dev.to/kalashagnihotri/automating-daily-tasks-with-python-9101)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
