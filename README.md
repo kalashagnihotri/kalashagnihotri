@@ -31,7 +31,7 @@
 - 🌱 I’m always exploring **new technologies** and frameworks
 - 🥅 2025 Goals: **Contribute more to open source & build impactful projects**
 - 💬 Ask me anything about **Python, Flutter, Node.js, and Open Source**
-- 📫 How to reach me: [kalashagnihotri@gmail.com](mailto:kalashagnihotri@gmail.com) • [LinkedIn](https://linkedin.com/in/kalashagnihotri)
+- 📫 How to reach me: [krishagni66@gmail.com](mailto:krishagni66@gmail.com) • [LinkedIn](https://linkedin.com/in/kalashagnihotri)
 - ⚡ Fun fact: I love automating boring stuff and creating beautiful UIs
 
 ---
