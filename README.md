@@ -56,14 +56,6 @@
 
 ---
 
-## 🏆 &nbsp;Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalashagnihotri&theme=tokyonight&column=6&no-frame=true" alt="Trophies"/>
-</p>
-
----
-
 ## 📢 &nbsp;Let's Connect!
 
 <p align="center">
